@@ -10,27 +10,27 @@ export const Skills = () => {
             <span className="skillTitle"></span>
                 <h1>What I Do</h1>
             <span className="skillDesc"></span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Welcome to the digital showcase of my passion and expertise in web development! I am a dedicated and versatile web developer committed to crafting seamless and visually appealing online experiences. With a strong foundation in front-end technologies such as HTML, CSS, and JavaScript, coupled with proficiency in popular frameworks like React and Vue.js, I bring ideas to life through interactive and responsive designs. </p>
                 <div className='skillBars'>
                     <div className="skillBar">
                         <img src={UIDesign} alt="UI" className="skillBarImg" />
                         <div className="skillBarText">
                             <h2>UI/UX design</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
+                            <p>I have designed beautiful sample websites using React and Next</p>
                         </div>
                     </div>
                     <div className="skillBar">
                         <img src={WebDesign} alt="Web" className="skillBarImg" />
                         <div className="skillBarText">
-                            <h2>Website Design</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
+                            <h2>Databases</h2>
+                            <p>I am well-versed in both SQL & NoSql databases, including Mongo and Appwrite</p>
                         </div>
                     </div>
                     <div className="skillBar">
                         <img src={AppDesign} alt="App" className="skillBarImg" />
                         <div className="skillBarText">
-                            <h2>App Design</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
+                            <h2>Growth Mindset</h2>
+                            <p>I am working on several more projects to demonstrate my constantly increasing skillset</p>
                         </div>
                     </div>
                 </div>
